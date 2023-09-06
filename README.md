@@ -7,3 +7,6 @@ About me(school,course...)
 
 ##Page 2
 Projects(Links,videos,pictures...   )
+
+##Page 3
+Contact me
